@@ -4,4 +4,4 @@ function init() {
     alert('init')
 }
 
-console.log("Hello world");
+console.log("Hello q-git");
